@@ -1,4 +1,4 @@
-### Setting Up an AWS EC2
+# Setting Up an AWS EC2
 
 This little lab set up a new EC2 instance on AWS and creates a security group that allows you to connect the instance using SSH.
 
